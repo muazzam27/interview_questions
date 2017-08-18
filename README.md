@@ -1,4 +1,7 @@
 # interview_questions
+# Credits
+
+The Questions has been taken from MINDORKS NEXTGEN PRIVATE LIMITED.
 <p align="center">
 <img alt="AndroidInterviewQuestions" src="https://raw.githubusercontent.com/MindorksOpenSource/android-interview-questions/master/assets/android_interview_questions.png">
 </p>
@@ -752,30 +755,3 @@ It is also a good practice to annotate overridden methods with `@Override` to ma
 * Android Code Style And Guidelines. [Mindorks](https://blog.mindorks.com/android-code-style-and-guidelines-d5f80453d5c7)
 * Have you tried Kotlin? [Medium](https://medium.com/p/why-you-must-try-kotlin-for-android-development-e14d00c8084b)
 * What are the metrics that you should measure continuously while android application development? [Mindorks](https://blog.mindorks.com/android-app-performance-metrics-a1176334186e)
-
-
-### Found this project useful :heart:
-* Support by clicking the :star: button on the upper right of this page. :v:
-
-[Check out Mindorks awesome open source projects here](https://mindorks.com/open-source-projects)
-
-
-### License
-```
-   Copyright (C) 2017 MINDORKS NEXTGEN PRIVATE LIMITED
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-```
-
-### Contributing to Android Interview Questions
-Just make pull request. You are in!
