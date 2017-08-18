@@ -7,14 +7,8 @@ The Questions has been taken from MINDORKS NEXTGEN PRIVATE LIMITED.
 </p>
 
 
-# Android Interview Questions
-[![Mindorks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
-[![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
-> Android Interview Questions - Your Cheat Sheet For Android Interview
 
-## We will be adding answers to the more questions on our [Mindorks website](https://mindorks.com).
 
-## Prepared and maintained by [Amit Shekhar](https://github.com/amitshekhariitbhu) who is having experience of taking interviews of many Android developers and cracking interviews of top companies.
 
 ## Contents
  * [Data Structures And Algorithms](#data-structures-and-algorithms)
