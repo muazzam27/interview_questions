@@ -357,7 +357,7 @@ The Questions has been taken from MINDORKS NEXTGEN PRIVATE LIMITED.
         ```
         Note: For a full explanation of the <b>describeContents()</b> method see [StackOverflow](https://stackoverflow.com/questions/4076946/parcelable-where-when-is-describecontents-used/4914799#4914799).
         In Android Studio, you can have all of the parcelable code auto generated for you, but like with everything else, it is always a good thing to try and understand everything that is happening.
-* What are anonymous classes?
+* What are anonymous classes? [example](https://www.javatpoint.com/anonymous-inner-class)
 * What is the difference between using `==` and `.equals` on a string?
 * How is `String` class implemented? Why was it made immutable?
   - There is no primitive variant of `String` class in Java language - all strings are just wrappers around underlying array of characters, which is declared `final`. This means that, once a `String` object is instantiated, it cannot be changed through normal tools of the language (Reflection still can mess things up horribly, because in Java no object is truly immutable). This is why `String` variables in classes are the first candidates to be used, when you want to override `hashCode()` and `equals()` of your class - you can be sure, that all their required contracts will be satisfied.  
