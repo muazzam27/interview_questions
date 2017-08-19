@@ -376,8 +376,8 @@ The Questions has been taken from MINDORKS NEXTGEN PRIVATE LIMITED.
 * What does it means to say that a `String` is immutable?
     - It means that once created, `String` object's `char[]` (its' containing value) is declared `final` and, therefore, it can not be changed during runtime.
 * What is `String.intern()`? When and why should it be used? [example](https://dzone.com/articles/string-interning-what-why-and) 
-* What is the `hashCode()` and `equals()` used for?
-* What are these `final`, `finally` and `finalize` keywords?
+* What is the `hashCode()` and `equals()` used for? [example](https://stackoverflow.com/questions/24446763/difference-between-equals-and-hashcode)
+* What are these `final`, `finally` and `finalize` keywords? [example](https://www.javatpoint.com/difference-between-final-finally-and-finalize)
 * What is garbage collector? How does it work?
   - All objects are allocated on the heap area managed by the JVM. 
   As long as an object is being referenced, the JVM considers it alive. 
