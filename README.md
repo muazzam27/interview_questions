@@ -383,8 +383,9 @@ The Questions has been taken from MINDORKS NEXTGEN PRIVATE LIMITED.
   As long as an object is being referenced, the JVM considers it alive. 
   Once an object is no longer referenced and therefore is not reachable by the application code,
   the garbage collector removes it and reclaims the unused memory.
-* `Arrays` vs `ArrayLists`.
-* `HashSet` vs `TreeSet`.
+* `Arrays` vs `ArrayLists`. [example](http://www.geeksforgeeks.org/array-vs-arraylist-in-java/)
+* `HashSet` vs `TreeSet`. [example](https://beginnersbook.com/2014/08/difference-between-hashset-and-treeset/)
+* `HashSet` vs `ArrayLists`. [example](http://www.java67.com/2012/07/difference-between-arraylist-hashset-in-java.html)
 * Typecast in Java.
     - In Java, you can use casts to polymorph one class into another, compatible one. For example:
         ```java
