@@ -375,7 +375,7 @@ The Questions has been taken from MINDORKS NEXTGEN PRIVATE LIMITED.
   - `String` was made immutable to prevent malicious manipulation of data, when, for example, user login or other sensitive data is being send to a server.
 * What does it means to say that a `String` is immutable?
     - It means that once created, `String` object's `char[]` (its' containing value) is declared `final` and, therefore, it can not be changed during runtime.
-* What is `String.intern()`? When and why should it be used?
+* What is `String.intern()`? When and why should it be used? [example](https://dzone.com/articles/string-interning-what-why-and) 
 * What is the `hashCode()` and `equals()` used for?
 * What are these `final`, `finally` and `finalize` keywords?
 * What is garbage collector? How does it work?
